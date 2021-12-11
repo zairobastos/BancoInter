@@ -16,4 +16,4 @@ Da uma olhada na aba [Releases](https://github.com/omariosouto/pokedex/releases)
 
 
 ## License/Licença do Projeto
-MIT License ©[Zairo Bastos](http://mariosouto.com/)
+[MIT License](./Licence) ©[Zairo Bastos](http://mariosouto.com/)
