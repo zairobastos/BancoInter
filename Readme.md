@@ -13,6 +13,7 @@
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [x] Introdução a criação de websites com HTML5 e CSS3 [(Repositório do Projeto)](https://github.com/zairobastos/html_bootcampInter)
 - [x] IDE Instalação e Configuração [(Visual Studio Code)](https://code.visualstudio.com/)
+- [x] Sintaxe Básica em JavaScript  - [(Repositótio do Projeto)](https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Sintaxe%20B%C3%A1sica%20JS) 
 
 ## History/Histórico
 Da uma olhada na aba [Releases](https://github.com/zairobastos/BancoInter/commits/main) pra acompanhar as alterações feitas no projeto.
