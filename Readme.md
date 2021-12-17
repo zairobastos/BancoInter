@@ -16,7 +16,7 @@
 - [x] Introdução ao JavaScript - [(Repositório do Projeto)](https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Introdu%C3%A7%C3%A3o%20ao%20Javascript)
 - [x] Sintaxe Básica em JavaScript  - [(Repositório do Projeto)](https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Sintaxe%20B%C3%A1sica%20JS) 
 - [x] Sintaxe e Operadores - [(Repositório do Projeto)](https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Sintaxe%20e%20Operadores)
-- [x] Variáveis e Tipos
+- [x] Variáveis e Tipos - [(Repositório do Projeto)](https://github.com/zairobastos/Curso-JS-Bootcamp-INTER/tree/master/Vari%C3%A1veis-e-Tipos)
 
 ## History/Histórico
 Da uma olhada na aba [Releases](https://github.com/zairobastos/BancoInter/commits/main) pra acompanhar as alterações feitas no projeto.
