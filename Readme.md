@@ -8,7 +8,9 @@
 ## 1. CheckList de aulas assistidas
 
 - [x] Boas-vindas ao Bootcamp Inter Frontend Developer
+- [x] Mentoria #1: Aula Inaugural - Bootcamp Inter Frontend Developer 
 - [x] Lógica de Programação Essencial
+- [x] Aprenda o que são Estruturas de Dados e Algoritmos 
 - [x] Introdução ao Git e ao GitHub
 - [x] Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso
 - [x] Introdução a criação de websites com HTML5 e CSS3 [(Repositório do Projeto)](https://github.com/zairobastos/html_bootcampInter)
